@@ -1,6 +1,6 @@
 # SysDevRun – Consultant Administrateur Système et PostgreSQL
 
-[![logo SysDevRun](logo-sys-dev-run.png)](https://www.sys-dev-run.fr/)
+[![logo SysDevRun](/profile/logo-sys-dev-run.png)](https://www.sys-dev-run.fr/)
 
 **SysDevRun** vous propose ses services pour vos projets d'Administration Système Linux et PostgreSQL.
 
